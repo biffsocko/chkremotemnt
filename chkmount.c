@@ -1,5 +1,5 @@
 /*****************************************************************
- * BiffSocko
+ * TR Murphy
  * chkmount.c
  *
  * checks for hanging nfs or cifs mountpoints
